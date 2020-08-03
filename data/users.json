@@ -1,0 +1,37 @@
+[
+ {
+  "nombre": "Luna",
+  "apellido": "Marchetta",
+  "email": "lunitam@gmail.com",
+  "password": "qweqwe",
+  "avatar": "Luna Marchetta - 11-3-2020 13_18_20.jpg"
+ },
+ {
+  "nombre": "Bruno",
+  "apellido": "Marchetta",
+  "email": "brunito@gmail.com",
+  "password": "qweqwe",
+  "avatar": "Bruno Marchetta - 11-3-2020 13_18_48.jpg"
+ },
+ {
+  "nombre": "nuevo",
+  "apellido": "usuario",
+  "email": "nuevoOK@hotmail.com",
+  "password": "123456",
+  "avatar": "nuevo usuario - 21-4-2020 22_20_49.jpg"
+ },
+ {
+  "nombre": "Valentina",
+  "apellido": "Scherl",
+  "email": "valescherl@yahoo.com.ar",
+  "password": "123",
+  "avatar": "Valentina Scherl - 22-4-2020 13_39_10.jpg"
+ },
+ {
+  "nombre": "Valentina",
+  "apellido": "Scherl",
+  "email": "valescherl@yahoo.com.ar",
+  "password": "123",
+  "avatar": "Valentina Scherl - 22-4-2020 13_42_3.jpg"
+ }
+]

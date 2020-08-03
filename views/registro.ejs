@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<body>
+    <h1>REGISTRO</h1>
+
+    <form method="POST" action="/users/register" enctype="multipart/form-data">
+        <label for="nombre">Nombre</label><input name="nombre" id="nombre" type="text"
+            style="text-align: center;">
+        <br>
+        <label>Apellido</label>
+        <input name="apellido"id="apellido" size="12" type="text">
+        <br>
+        <label>Email</label>
+        <input name="email" id="email" size="12" type="email">
+        <br>
+        <label>Contraseña</label>
+        <input name="password" id="password" size="12" type="password">
+        <br>
+        <label>Repetir Contrasenia</label>
+
+        <input name="password2" id="password2" size="12" type="password">
+        <br>
+        <label>Avatar</label><input type="file" name="avatar" accept=".jpg">
+        <button type="submit">Crear Usuario</button>
+
+    </form>
+
+</body>
+
+</html>
